@@ -33,7 +33,7 @@ I am a computer science professional with a unique background bridging data-driv
 ###  Featured Projects
 
 #### [RAG vs Agentic AI: Customer Support Benchmark](https://github.com/akshitgupta-tech/Rag-vs-Agentic-Bot)
-Architected and benchmarked a FAISS-backed RAG pipeline against an Agentic LLM workflow using **LangChain**, **Llama-3**, and **Groq**. Built custom tool-calling pipelines to automate customer support routing, achieving **71.7% Intent Accuracy** and a 0% hallucination rate with the Agentic bot.
+Architected and benchmarked a FAISS-backed RAG pipeline against an Agentic LLM workflow using **LangChain**, **Llama-3**, and **Groq**. Built custom tool-calling pipelines to automate customer support routing, achieving **83.3% Intent Accuracy** and a 16.7% hallucination rate with the Agentic bot.
 
 #### [Generative AI Research Analyzer](https://github.com/akshitgupta-tech/research_analyzer_genai)
 Developed a GenAI-powered application utilizing LLMs and advanced prompt engineering to efficiently parse, analyze, and extract critical insights from dense academic papers and complex texts.
